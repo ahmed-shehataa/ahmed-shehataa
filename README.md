@@ -3,7 +3,9 @@
 # I'm native android developer (java & kotlin).
 
 - 🔭 I’m currently working on (awesome app to publish it on google play).
-- 🌱 I’m currently learning flutter.
+<!--
+- 🌱 I’m currently learning flutter. 
+-->
 - 💬 Ask me about anything about android development.
 - 📫 How to reach me: 
 [Facebook](https://www.facebook.com/A.4e7ata)
