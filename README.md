@@ -2,7 +2,7 @@
 
 # I'm native android developer (java & kotlin).
 
-- 🔭 I’m currently working on (awesome app to publish it on google play).
+- 🔭 One year experience with android development.
 - :star2: Android circle leader at CAT reloaded
 - 💬 Ask me about anything about android development.
 - 📫 How to reach me:   
