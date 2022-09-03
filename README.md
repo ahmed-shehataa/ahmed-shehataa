@@ -3,11 +3,11 @@
 # I'm native android developer (java & kotlin).
 
 - 🔭 One year experience with android development.
-- :star2: Android circle leader at CAT reloaded
+- :star2: Former Android circle leader at CAT reloaded
 - 💬 Ask me about anything about android development.
 - 📫 How to reach me:   
 [Facebook](https://www.facebook.com/A.4e7ata)  
-[LinkedIn](https://www.linkedin.com/in/ahmed-shehata-b29b2a149/)  
+[LinkedIn](https://www.linkedin.com/in/ahmed-she7ata)  
 [Twitter](https://twitter.com/ahmed_4e7ataa?t=OJZJNubfqCvLNElVIwkqzw&s=09)    
 [YouTube](https://youtube.com/user/every4thingHD)     
 [Behance](https://www.behance.net/ahmedshehata7)  
