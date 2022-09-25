@@ -2,16 +2,18 @@
 
 # I'm native android developer (java & kotlin).
 
-- 🔭 One year experience with android development.
+- 🔭 Around 2-years experience with android development.
+- :star2: Former Android intern at Instabug
 - :star2: Former Android circle leader at CAT reloaded
-- 💬 Ask me about anything about android development.
+- 💬 Ask me anything about android development.
 - 📫 How to reach me:   
-[Facebook](https://www.facebook.com/A.4e7ata)  
-[LinkedIn](https://www.linkedin.com/in/ahmed-she7ata)  
-[Twitter](https://twitter.com/ahmed_4e7ataa?t=OJZJNubfqCvLNElVIwkqzw&s=09)    
-[YouTube](https://youtube.com/user/every4thingHD)     
-[Behance](https://www.behance.net/ahmedshehata7)  
-[Gmail](ahamdyshehata7@gmail.com)  
+  - Phone number: +2010 9850 52 55   
+  - [Facebook](https://www.facebook.com/A.4e7ata)  
+  - [LinkedIn](https://www.linkedin.com/in/ahmed-she7ata)  
+  - [Twitter](https://twitter.com/ahmed_4e7ataa?t=OJZJNubfqCvLNElVIwkqzw&s=09)    
+  - [YouTube](https://youtube.com/user/every4thingHD)     
+  - [Behance](https://www.behance.net/ahmedshehata7)  
+  - [Gmail](ahamdyshehata7@gmail.com)  
 
 
 
