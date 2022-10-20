@@ -15,6 +15,5 @@
   - [Gmail](ahamdyshehata7@gmail.com)  
 
 
-![My github Stats](https://github-readme-stats.vercel.app/api?username=ahmed-shehataa&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shehataa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My github Stats](https://github-readme-stats.vercel.app/api?username=ahmed-shehataa&count_private=true&show_icons=true&theme=onedark)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shehataa&count_private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
