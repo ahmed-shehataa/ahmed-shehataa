@@ -2,7 +2,7 @@
 
 # I'm native android developer (java & kotlin).
 
-- :star2: Android Engineer at TrianglZ LLC
+- :star2: Former Android Engineer at TrianglZ LLC
 - :star2: Former Android intern at Instabug
 - :star2: Former Android circle leader at CAT reloaded
 - 💬 Ask me anything about android development.
