@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-# I'm native android developer (java & kotlin).
+# I'm a mobile developer (java - kotlin - Dart).
 
+- :star2: Software Engineer at Grow Digital
 - :star2: Former Android Engineer at TrianglZ LLC
 - :star2: Former Android intern at Instabug
 - :star2: Former Android circle leader at CAT reloaded
-- 💬 Ask me anything about android development.
+- 💬 Ask me anything about Android development.
 - 📫 How to reach me:   
   - [LinkedIn](https://www.linkedin.com/in/ahmed-she7ata)  
   - [Twitter](https://twitter.com/ahmed_4e7ataa?t=OJZJNubfqCvLNElVIwkqzw&s=09)    
