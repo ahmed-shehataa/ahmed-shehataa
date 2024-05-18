@@ -2,7 +2,7 @@
 
 # I'm a mobile developer (java - kotlin - Dart).
 
-- :star2: Software Engineer at Grow Digital
+- :star2: Former Software Engineer at Grow Digital
 - :star2: Former Android Engineer at TrianglZ LLC
 - :star2: Former Android intern at Instabug
 - :star2: Former Android circle leader at CAT reloaded
